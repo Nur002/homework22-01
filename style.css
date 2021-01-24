@@ -1,0 +1,120 @@
+body{
+    margin: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+ul{
+    list-style: none;
+    display: inline-flex;
+    margin: 0px 50px;
+}
+
+li{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+header{
+    background-color: #36434c;
+    text-align: end;
+    padding: 25px 0px;
+    border-bottom: 3px #f90009 solid;
+}
+
+.one{
+    background: url(1.jpg) center/cover;
+    height: 350px;
+    width: 100%;
+    text-align: center;
+    color:white;
+    margin: 0px;
+}
+
+.two{
+    padding: 20px 0px;
+    background-color: #36434c;
+    display: flex;
+}
+h3{
+    margin: 10px 10px;
+    color: white;
+}
+form{
+    padding: 12px 10px;
+    margin-left: 400px;
+}
+input{
+    padding: 4px 10px;
+}
+button{
+    padding: 4px 6px;
+    background-color: red;
+    margin: 10px;
+    color: white;
+}
+
+.three{
+    display: inline-flex;
+    margin: 30px 110px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.blok1{
+    text-align: center;
+    margin: 20px;
+}
+footer{
+    text-align: center;
+    background-color: red;
+    margin: 0px;
+    padding: 20px;
+    color: white;
+}
+.about{
+    margin: 10px 50px;
+    display: inline-flex;
+}
+.twotexts{
+    margin-left: 50px;
+}
+.minitext{
+    background-color: #36434c;
+}
+.sidetext{
+    padding: 10px 20px;
+    background-color: #36434c;
+    margin: 10px 20px;
+}
+.conts{
+    padding: 20px 10px;
+    margin: 5px;
+    background-color: #e5e5e5;
+}
+.box1{
+    margin: 20px;
+    margin-left: 80px;
+    margin-right: 100px;
+}
+
+.box2{
+    background-color: #36434c;
+    margin: 20px;
+    padding: 10px;
+    margin-right: 90px;
+    width: 400px;
+    height: 250px;
+    
+}
+.all{
+    display: inline-flex;
+}
+input{
+    padding: 5px;
+    width: 250px;
+}
